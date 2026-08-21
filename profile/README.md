@@ -31,7 +31,7 @@
 - [руководство автора](https://github.com/ai-supported-education/course-template/blob/master/docs/authoring-a-course.md);
 - [стандарт учебного материала](https://github.com/ai-supported-education/course-template/blob/master/curriculum/authoring-standard.md).
 
-Базовый шаблон не привязан к стеку. FSD относится только к React-профилю и не является общим правилом для всех курсов.
+Базовый шаблон не привязан к стеку.
 
 ## Готово
 
