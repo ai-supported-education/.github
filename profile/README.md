@@ -29,9 +29,15 @@
 - [course-template](https://github.com/ai-supported-education/course-template);
 - [AGENTS.md](https://github.com/ai-supported-education/course-template/blob/master/AGENTS.md);
 - [руководство автора](https://github.com/ai-supported-education/course-template/blob/master/docs/authoring-a-course.md);
-- [стандарт учебного материала](https://github.com/ai-supported-education/course-template/blob/master/curriculum/authoring-standard.md).
+- [стандарт учебного материала](https://github.com/ai-supported-education/course-template/blob/master/curriculum/authoring-standard.md);
+- [каталог компонуемых профилей](https://github.com/ai-supported-education/course-template/blob/master/docs/course-profiles/README.md);
+- [шаблоны разных типов сессий](https://github.com/ai-supported-education/course-template/tree/master/templates/sessions);
+- [протокол независимого content-review](https://github.com/ai-supported-education/course-template/blob/master/curriculum/content-review-protocol.md).
 
-Базовый шаблон не привязан к стеку.
+Базовый шаблон не привязан к стеку. Для каждого курса явно выбираются profiles и
+evidence; ожидаемый результат нельзя выдавать за фактическое наблюдение. После
+создания learner-facing материала его проверяет отдельный агент без контекста
+генерации.
 
 ## Готово
 
